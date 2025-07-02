@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(179, 173, 173, 0.904);
+}
+#titulo p{
+    margin:0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#titulo{
+   border-color: rgb(153, 38, 38);
+   border-style: solid;
+    color: rgb(153, 38, 38);
+   position:relative;
+   font-size: 71px;
+   margin: 0 auto;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   width:65vw;
+   padding: 3%;
+   background-color: rgba(255, 255, 255, 0.911);
+   
+
+}
+.subtitulos{
+    font-size: 35px;
+    color: rgb(100, 16, 16);
+     margin-left: 3%;
+     position: relative;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-top:5%;
+    margin-bottom: 5%;
+}
+#imagen1{
+position: relative;
+margin: 50px auto;
+display: block;
+width: 390px;
+}
+.texto{
+    color: black;
+    font-size: 20px;
+    line-height: 1.8;
+    margin: 5%;
+    position:relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#logo{
+    justify-content: space-between;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
